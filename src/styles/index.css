@@ -1,0 +1,71 @@
+@import './resets.css';
+@import './fonts.css';
+
+/* ESTILOS DEL LAYOUT */
+/* .layout {
+	width: 80%;
+	background-color: yellow;
+	border: 4px solid orange;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-template-rows: 100px 100px 500px;
+	grid-template-areas:
+		'header header'
+		'nav nav'
+		'form users-list';
+} */
+
+/* .header {
+	grid-area: header;
+} */
+
+/* .nav {
+	grid-area: nav;
+} */
+
+/* .form {
+	grid-area: form;
+} */
+
+/* .users-list {
+	grid-area: users-list;
+} */
+
+/* ESTILOS DEL HEADER */
+/* .header {
+	background-color: lightblue;
+	border: 4px solid red;
+	text-align: center;
+} */
+
+/* ESTILOS DEL PANEL DE NAVEGACION */
+/* .nav {
+	background-color: lightblue;
+	border: 4px solid red;
+	list-style: none;
+} */
+
+/* .nav > ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+} */
+
+/* .nav li {
+	padding: 10px;
+	border: 4px solid red;
+} */
+
+/* ESTILOS DEL FORMULARIO */
+/* .form {
+	background-color: lightblue;
+	border: 4px solid red;
+	flex-flow: column wrap;
+} */
+
+/* ESTILOS DE LA LISTA DE USUARIOS */
+/* .users-list {
+	background-color: lightblue;
+	border: 4px solid red;
+} */
